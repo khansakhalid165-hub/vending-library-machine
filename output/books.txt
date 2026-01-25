@@ -1,0 +1,20 @@
+B001|C++ Programming|Bjarne Stroustrup|3|3
+B002|Data Structures and Algorithms|Mark Allen Weiss|4|3
+B003|Introduction to Algorithms|Thomas Cormen|3|3
+B004|Operating System Concepts|Abraham Silberschatz|2|2
+B005|Database System Concepts|Henry Korth|3|3
+B006|Computer Networks|Andrew Tanenbaum|4|4
+B007|Artificial Intelligence|Stuart Russell|2|2
+B008|Machine Learning|Tom Mitchell|3|3
+B009|Python Programming|Mark Lutz|5|5
+B010|Java Programming|Herbert Schildt|4|4
+B011|Web Development|Jon Duckett|3|3
+B012|Software Engineering|Ian Sommerville|2|2
+B013|Cloud Computing|Thomas Erl|3|1
+B014|Cybersecurity Essentials|Charles Brooks|2|2
+B015|Blockchain Technology|Imran Bashir|2|2
+B016|Deep Learning|Ian Goodfellow|3|3
+B017|Computer Graphics|Donald Hearn|2|2
+B018|Compiler Design|Alfred Aho|2|2
+B019|Mobile App Development|Neil Smyth|3|3
+B020|DevOps Handbook|Gene Kim|2|0

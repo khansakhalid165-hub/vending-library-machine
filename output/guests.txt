@@ -1,0 +1,8 @@
+G001|Ali Ahmed|1000
+G002|Sara Khan|1000
+G003|Hassan Ali|0
+G004|Fatima Noor|0
+G005|Usman Tariq|0
+G6|khansa|1000
+G7|hafsa|1000
+G8|hamza|1000
